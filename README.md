@@ -1,5 +1,5 @@
 # Cifar10-Keras-Classification-and-Attack
-Python Notebook where I trained and attacked a CNN on Cifar10 Dataset
+Python Notebook where I trained and attacked a CNN on Cifar10 Dataset (15 Feb 2021)
 
 ## Project Description
 
